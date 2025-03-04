@@ -1,2 +1,2 @@
 Vedio Demo of the project
-Drive Link Here(https://github.com/Naveen112491/Workforce-Administration-Solution-Admin-/edit/main/Vedio%20Demo/readme.md)
+Drive Link Here(https://drive.google.com/file/d/1lfJ1gwGGa8p25ANU7qcnspiE5fVmgLX4/view?usp=sharing)
